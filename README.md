@@ -1,2 +1,1 @@
-# Portofolio-Projects-Excel
-Compilation of Excel projects
+Supermarket Sales Rating Prediction in R
